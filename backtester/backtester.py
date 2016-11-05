@@ -1,0 +1,3 @@
+class Backtester(object):
+
+    def
